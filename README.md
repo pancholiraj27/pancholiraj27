@@ -10,11 +10,10 @@
 
 <p align="left"> <a href="https://twitter.com/pancholiraj27" target="blank"><img src="https://img.shields.io/twitter/follow/pancholiraj27?logo=twitter&style=for-the-badge" alt="pancholiraj27" /></a> </p>
 
-- 🌱 I’m currently learning **TypeScript**
 
 - 👨‍💻 All of my projects are available at [www.rajpancholi.com](www.rajpancholi.com)
 
-- 💬 Ask me about **Web development, react**
+- 💬 Ask me about **Web development, React, NextJs, Javascript**
 
 - 📫 How to reach me **pancholiraj27@gmail.com**
 
